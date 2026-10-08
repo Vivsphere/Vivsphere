@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hey, I'm Vivian 👋🏽
 
-<!--
-**Vivsphere/Vivsphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student | Developer in Progress
 
-Here are some ideas to get you started:
+Welcome to my little corner of GitHub ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student who enjoys learning how things work, experimenting with code, and turning ideas into something real.
+
+🌱 **Currently learning**
+
+* Laravel & PHP
+* Python
+* C
+* Web development
+* Software development
+
+💫 **My developer journey**
+
+```text
+Learn → Build → Break → Debug → Learn again → Repeat ♡
+```
+
+### 🌷 A little about me
+
+* 🎓 Computer Science student
+* 💻 Passionate about technology and software development
+* 🌱 Always learning something new
+* 🧩 I enjoy solving problems through code
+* ✨ Working on becoming a better developer one step at a time
+
+### 🛠️ Technologies I'm exploring
+
+`PHP` · `Laravel` · `Python` · `C` · `HTML` · `CSS` · `JavaScript` · `Git` · `GitHub`
+
+### 📚 Currently
+
+> Learning, experimenting, making mistakes, fixing them, and enjoying the process.
+
+---
+
+### ✨ Thanks for stopping by
+
+**Still learning. Still growing. Still building.** 🌱
+
+<sub>♡ one line of code at a time</sub>
